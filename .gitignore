@@ -1,0 +1,39 @@
+# android studio / intellij
+*.iml
+.idea/
+.DS_Store
+
+
+# gradle
+.gradle/
+build/
+
+
+# local config
+local.properties
+
+
+# generated / build outputs
+/captures
+.externalNativeBuild/
+.cxx/
+bin/
+gen/
+out/
+
+
+# signing keys
+*.jks
+*.keystore
+
+
+# apk / aab outputs
+*.apk
+*.ap_
+*.aab
+
+
+# java / kotlin / system
+*.class
+*.log
+

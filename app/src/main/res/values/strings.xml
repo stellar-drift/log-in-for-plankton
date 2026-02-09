@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Plankton Pics</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hintUsername">username</string>
+    <string name="hintPassword">password</string>
+    <string name="btnSubmit">Login</string>
+    <string name="txtTagline">Enter the Beautiful World of Phytoplankton</string>
+    <string name="btnReturn">Back</string>
+    <string name="btnError">Oh no!</string>
+    <string name="btnErrorDescription">Your login attempt was unsuccessful.</string>
+    <string name="txtGalleryTitle">Image Gallery</string>
+    <string name="btnLogout">Logout</string>
+    <string name="txtCaption">A Caption Goes Here</string>
+</resources>

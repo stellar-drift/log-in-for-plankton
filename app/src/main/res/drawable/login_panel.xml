@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- NOTES: https://developer.android.com/guide/topics/resources/drawable-resource#Shape -->
+
+    <solid android:color="#99fbf9f3" /> <!-- background color #AED6CF #87c2b8-->
+    <corners
+        android:topLeftRadius="20dp"
+        android:topRightRadius="20dp" />
+
+</shape>
