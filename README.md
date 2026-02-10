@@ -1,7 +1,7 @@
 # Log In for Plankton
 ## or plankton login app
 
-this app was built to simulate a common login flow. once logged in the user is presented with a photo gallery. photos can be clicked, launching a new activity that displays the image and a caption. project was originally built using an older version of android studio, and refactored to work with a newer version (listed below).
+this app was built to simulate a common login flow. once logged in the user is presented with a photo gallery where photos can be clicked, launching a new activity that displays the image and a caption. project was originally built using an older version of android studio, and refactored to work with a newer version (listed below).
 
 NOTE: Pixel 4a API 31 recommended 
 
